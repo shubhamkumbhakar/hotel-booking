@@ -65,7 +65,7 @@ router.post("/book", (req, res)=>{
         }
 
         const bookingDetails = bookRoom(db, parsed.body);
-        res.status(201).json({
+        res.json({
             message: 'Booking confirmed',
             bookingDetails
         });
