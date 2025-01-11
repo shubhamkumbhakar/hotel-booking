@@ -4,6 +4,7 @@ Postman collection for all the following APIs: https://app.getpostman.com/join-t
 
 Install Dependencies: `npm i`
 Start server by running : `npm start`
+Running Jest unit tests: `npm test`
 
 # APIs:
 
