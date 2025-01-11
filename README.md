@@ -1,5 +1,7 @@
 # Hotel Room Booking System
 
+Postman collection for all the following APIs: https://app.getpostman.com/join-team?invite_code=4e25278f540f087d62fee84f6238fab56fdf429341596457eca92a72623ed148&target_code=a255da7d7d32f9ae0432400f29a89260
+
 Install Dependencies: `npm i`
 Start server by running : `npm start`
 
@@ -39,7 +41,7 @@ Start server by running : `npm start`
       }
 
 # 5. Modify Booking API:
-    o Allow a guest to modify their check-in or check-out date by providing
+    - Allow a guest to modify their check-in or check-out date by providing
     their email and booking details.
       API URL: http://localhost:5001/api/bookings/modify
       Method: PUT
