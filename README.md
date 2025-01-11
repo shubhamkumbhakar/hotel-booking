@@ -2,9 +2,9 @@
 
 Postman collection for all the following APIs: https://app.getpostman.com/join-team?invite_code=4e25278f540f087d62fee84f6238fab56fdf429341596457eca92a72623ed148&target_code=a255da7d7d32f9ae0432400f29a89260
 
-Install Dependencies: `npm i`
-Start server by running : `npm start`
-Running Jest unit tests: `npm test`
+# Install Dependencies: `npm i`
+# Start server by running : `node index`
+# Running Jest unit tests: `npm test`
 
 # APIs:
 
